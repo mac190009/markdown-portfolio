@@ -1,1 +1,1 @@
-![UTD logo](https://www.utdallas.edu/)
+![UTD logo](https://github.com/mac190009)
